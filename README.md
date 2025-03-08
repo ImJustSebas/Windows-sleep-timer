@@ -25,5 +25,5 @@ PowerTimer es una aplicación de línea de comandos escrita en Python que permit
 1. **Descarga el programa**:
    - Clona el repositorio o descarga el archivo `powertimer.py`:
      ```bash
-     git clone <URL_DEL_REPOSITORIO>
+     git clone https://github.com/ImJustSebas/Windows-sleep-timer
      cd powertimer
